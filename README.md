@@ -1,2 +1,2 @@
-# AMS
-Attendance monitoring system
+# Attendance Monitoring System
+Attendance monitoring system frontend using Vuejs(https://vuejs.org/)
